@@ -1,11 +1,13 @@
 # OTVA
 
 #### 介绍
-OTVA-Tank    
+                                                                 **OTVA-Tank **    
 
 蓝牙转ATK-LORA-01 3千米内无线控制 / 自动控制的小车
 
-OpenMV    STM32F103RE    履带式    
+OpenMV    STM32F103RE    履带式   
+
+[bilibili:](https://www.bilibili.com/video/BV1T54y1h7jB/)
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0326/203942_3188c41f_7821111.jpeg "510631178193943685.jpg")
 #### 软件架构
@@ -21,7 +23,7 @@ OpenMV    STM32F103RE    履带式
 
 #### 使用说明
     
-    看工程内 Reademe
+    看工程内 Readme
 
 #### 参与贡献
 
