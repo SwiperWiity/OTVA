@@ -7,14 +7,11 @@
 
 OpenMV    STM32F103RE    履带式   
 
-[bilibili:](https://www.bilibili.com/video/BV1T54y1h7jB/)
+[bilibili传送门](https://www.bilibili.com/video/BV1T54y1h7jB/)
 
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0326/203942_3188c41f_7821111.jpeg "510631178193943685.jpg")
+![OTVA](https://images.gitee.com/uploads/images/2021/0326/203942_3188c41f_7821111.jpeg "510631178193943685.jpg")
 #### 软件架构
 软件架构说明
-
-
-#### 软件
 
 1.  MDK
 2.  KeyShot9
