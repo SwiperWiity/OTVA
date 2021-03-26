@@ -14,9 +14,18 @@ OpenMV    STM32F103RE    履带式
 软件架构说明
 
 1.  MDK
+链接：https://pan.baidu.com/s/18npEuuMFP7AC3K5nEu2z6Q 
+提取码：qmrj 
+复制这段内容后打开百度网盘手机App，操作更方便哦
 2.  KeyShot9
-3.  AD20
-4.  else
+链接：https://pan.baidu.com/s/1Z_C05RyEmSJNG9X3rzawQw 
+提取码：9ji5 
+复制这段内容后打开百度网盘手机App，操作更方便哦
+3.  AD19
+链接：https://pan.baidu.com/s/1p9UvWM5NO520QgyAAA2UwQ 
+提取码：az9b 
+复制这段内容后打开百度网盘手机App，操作更方便哦
+4.  else     :trollface: 
 
 #### 使用说明
     
