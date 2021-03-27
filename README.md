@@ -1,7 +1,7 @@
 # OTVA
 
 #### 介绍
-                                                                 **OTVA-Tank **    
+                                              **OTVA-Tank **    
 
 蓝牙转ATK-LORA-01 3千米内无线控制 / 自动控制的小车
 
